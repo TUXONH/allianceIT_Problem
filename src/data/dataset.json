@@ -1,0 +1,90 @@
+[
+  {
+    "user": {
+      "id": 1,
+      "name": "Mauricio"
+    },
+    "purchases": [
+      {
+        "id": 1,
+        "quantity": 120,
+        "date": "06/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 2,
+        "quantity": 400,
+        "date": "06/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 3,
+        "quantity": 320,
+        "date": "05/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 4,
+        "quantity": 55,
+        "date": "05/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 5,
+        "quantity": 42,
+        "date": "04/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 6,
+        "quantity": 112,
+        "date": "04/01/2021",
+        "user_id": 1
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 2,
+      "name": "George"
+    },
+    "purchases": [
+      {
+        "id": 7,
+        "quantity": 440,
+        "date": "06/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 8,
+        "quantity": 123,
+        "date": "06/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 9,
+        "quantity": 43,
+        "date": "05/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 10,
+        "quantity": 105,
+        "date": "05/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 11,
+        "quantity": 390,
+        "date": "04/01/2021",
+        "user_id": 1
+      },
+      {
+        "id": 12,
+        "quantity": 220,
+        "date": "04/01/2021",
+        "user_id": 1
+      }
+    ]
+  }
+]
